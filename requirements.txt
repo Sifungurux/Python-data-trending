@@ -1,0 +1,5 @@
+pandas
+datetime
+numpy
+logging
+pymannkendall
